@@ -66,8 +66,7 @@ All models use **transfer learning** — pretrained ImageNet weights with a modi
 | **Recall** | 0.9852 | 0.9445 | 0.9300 |
 | **F1-Score** | 0.9867 | 0.9449 | 0.9300 |
 | **Model Size** | 94.01 MB | 42.65 MB | 9.88 MB |
-| **Training Time** | N/A | N/A | N/A |
-| **Inference Speed** | N/A | N/A | N/A |
+
 
 ### 🏆 Model Comparison
 
