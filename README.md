@@ -60,17 +60,22 @@ All models use **transfer learning** — pretrained ImageNet weights with a modi
 ## 📊 Results
 
 | Metric | ResNet50 | EfficientNetB3 | MobileNetV2 |
-|---|---|---|---|
-| Accuracy | — | — | — |
-| Precision | — | — | — |
-| Recall | — | — | — |
-| F1-Score | — | — | — |
-| Training Time | — | — | — |
-| Model Size | — | — | — |
-| Inference Speed | — | — | — |
+|----------|----------|----------|----------|
+| **Accuracy** | 98.94% | 95.23% | 93.90% |
+| **Precision** | 0.9884 | 0.9472 | 0.9400 |
+| **Recall** | 0.9852 | 0.9445 | 0.9300 |
+| **F1-Score** | 0.9867 | 0.9449 | 0.9300 |
+| **Model Size** | 94.01 MB | 42.65 MB | 9.88 MB |
+| **Training Time** | N/A | N/A | N/A |
+| **Inference Speed** | N/A | N/A | N/A |
 
-> 📌 Results will be updated upon completion of all model training.
+### 🏆 Model Comparison
 
+- **ResNet50** achieved the best overall performance with **98.94% accuracy** and the highest precision, recall, and F1-score.
+- **EfficientNetB3** provided a strong balance between performance and model size, achieving **95.23% accuracy** while being significantly smaller than ResNet50.
+- **MobileNetV2** had the smallest model size (**9.88 MB**), making it the most suitable for deployment on resource-constrained devices, while still achieving **93.90% accuracy**.
+- There is a clear trade-off between **model performance** and **computational efficiency**, with ResNet50 prioritizing accuracy and MobileNetV2 prioritizing lightweight deployment.
+  
 ---
 
 ## 🔍 Explainability — Grad-CAM
