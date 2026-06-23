@@ -1,5 +1,5 @@
 # Plant-Disease-Classification
-# 🌿 Plant Disease Classification using Deep Learning
+# 🌿 Plant Disease Classification using CNN
 
 A deep learning project that automatically detects and classifies plant diseases from leaf images using three pretrained CNN architectures, with explainability via Grad-CAM and a Streamlit GUI for real-time predictions.
 
