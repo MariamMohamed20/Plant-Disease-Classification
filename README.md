@@ -123,13 +123,6 @@ pip install -r requirements.txt
 streamlit run gui/app.py
 ```
 
-### Google Colab Notebooks
-- [EfficientNetB3 Notebook](https://colab.research.google.com/drive/1R9s9JAY3qouQriEGk3yIlwP75Q-mRwqn?usp=sharing)
-- [MobileNetV2 Notebook](https://colab.research.google.com/drive/1uk6pUo5jng0UKoaEWPwJyisbc8Xjby0U?usp=sharing)
-- [ResNet50 Notebook](https://colab.research.google.com/drive/1KqDE8_RKy_8UuVpe7351m75QtQXKXZZw?usp=sharing)
-
----
-
 
 ## 🛠️ Technologies
 Python · TensorFlow · Keras · Streamlit · OpenCV · scikit-learn · NumPy · Matplotlib · Google Colab · Kaggle
