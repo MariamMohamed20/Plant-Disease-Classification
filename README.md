@@ -5,10 +5,6 @@ A deep learning project that automatically detects and classifies plant diseases
 
 ---
 
-## 👥 Team
-5-member team project | [Your University] | [Course Name] | [Year]
-
----
 
 ## 📌 Problem Statement
 Plant diseases cause significant agricultural losses worldwide. Early and accurate detection is critical for farmers and food security. This project leverages transfer learning to classify 38 plant disease categories from leaf images — making expert-level diagnosis fast and accessible.
