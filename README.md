@@ -104,7 +104,7 @@ A three-page interactive web application:
 
 ---
 
-## 📱 Bonus: TensorFlow Lite Deployment (+5 pts)
+## 📱 TensorFlow Lite Deployment 
 - Converted MobileNetV2 to TFLite format
 - Applied quantization for mobile optimization
 - Benchmarked: original vs TFLite size, speed, and accuracy
